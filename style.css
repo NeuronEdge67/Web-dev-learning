@@ -14,3 +14,7 @@ img{
     width: 100px;
     height: auto;
 }
+
+.highlight {
+  background-color: yellow;
+}
