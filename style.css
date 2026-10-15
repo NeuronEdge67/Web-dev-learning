@@ -18,3 +18,7 @@ img{
 .highlight {
   background-color: yellow;
 }
+
+.input{
+  border: 2px solid black;
+}
