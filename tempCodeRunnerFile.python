@@ -1,0 +1,13 @@
+pyname = 'Jesaa29Roy'
+
+size = len(pyname)
+i = -1
+# iterate loop till the last character
+while i < size - 1:
+    i = i + 1
+    print(i)
+    # skip while loop body if current character is not alphabet
+    if not pyname[i].isalpha():
+        continue
+    # print current character
+    print(pyname[i], end=' ') 
