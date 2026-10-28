@@ -33,10 +33,9 @@
 // alert("67")
 
 function add7(number){
-    let user_input = Number(prompt("Enter a number: "))
-    return `${number} + 7 = ${user_input + 7}`
+    return `${number} + 7 = ${number + 7}`;
 }
+let user_input = Number(prompt("Enter a number: "));
 
 
-
-console.log(add7(user_input))
+console.log(add7(user_input));
