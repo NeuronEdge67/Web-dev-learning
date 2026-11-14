@@ -50,3 +50,7 @@
 // console.log(a)
 // console.log(a.at(-1))
 
+let user_input = document.querySelector("#UserInput");
+user_input.style.borderRadius =  "10px";
+
+console.log(user_input);
