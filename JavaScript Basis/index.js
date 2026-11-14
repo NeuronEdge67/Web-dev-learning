@@ -32,10 +32,21 @@
 
 // alert("67")
 
-function add7(number){
-    return `${number} + 7 = ${number + 7}`;
-}
-let user_input = Number(prompt("Enter a number: "));
+// function add7(number){
+//     return `${number} + 7 = ${number + 7}`;
+// }
+// let user_input = Number(prompt("Enter a number: "));
 
 
-console.log(add7(user_input));
+// console.log(add7(user_input));
+
+
+
+// for (begin; condition; step) {
+  // ... loop body ...
+// }
+
+// let a = [1, 2, 3, 4, 5]
+// console.log(a)
+// console.log(a.at(-1))
+
